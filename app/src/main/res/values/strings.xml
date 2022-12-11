@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">wifi</string>
+    <string name="text_wifi_scan">Wi-Fi扫描</string>
+    <string name="text_wifi_connect">Wi-Fi连接</string>
+</resources>
